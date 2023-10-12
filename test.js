@@ -9,3 +9,5 @@ let string = "";
 let answer = string + result'
 
 console.log("Hello world")
+
+console.log(result)
