@@ -7,3 +7,5 @@ let result = a + b;
 let string = "";
 
 let answer = string + result'
+
+console.log("Hello world")
