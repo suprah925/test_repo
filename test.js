@@ -10,4 +10,6 @@ let x = answer + "string";
 
 let x = answer + "string1";
 
+let x = answer + "string3";
+
 
