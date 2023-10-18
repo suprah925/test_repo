@@ -21,6 +21,8 @@ a = a + "hi"
 console.log(a)
 b = a + "bye"
 
+console.log(a+b)
+
 
 
 
