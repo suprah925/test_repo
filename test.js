@@ -8,8 +8,12 @@ let answer = result/2;
 
 let x = answer + "string";
 
-let x = answer + "string1";
+let z = answer + "string1";
 
-let x = answer + "string3";
+let y = answer + "string3";
+
+let a = answer + "string3";
+
+console.log(x + y - z)
 
 
