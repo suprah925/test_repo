@@ -16,4 +16,8 @@ let a = answer + "string3";
 
 console.log(x + y - z)
 
+a = a + "hi"
+
+console.log(a)
+
 
