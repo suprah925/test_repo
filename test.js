@@ -19,5 +19,8 @@ console.log(x + y - z)
 a = a + "hi"
 
 console.log(a)
+b = a + "bye"
+
+
 
 
