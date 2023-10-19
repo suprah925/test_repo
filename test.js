@@ -22,6 +22,14 @@ console.log(a)
 b = a + "bye"
 
 console.log(a+b)
+console.log(a+b)
+console.log(a+b)
+console.log(a+b)
+console.log(a+b)
+console.log(a+b)
+console.log(a+b)
+console.log(a+b)
+
 
 
 
