@@ -5,3 +5,5 @@ let b = 4;
 let result = a + b;
 // Print for debugging
 console.log(result)
+
+print(result)
