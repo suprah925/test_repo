@@ -3,7 +3,7 @@ early_access: false
 reviews:
   approve_review: true
   high_level_summary: true
-  poem: true
+  poem: false
   review_status: true
   collapse_walkthrough: false
   path_filters:
@@ -25,5 +25,6 @@ reviews:
     base_branches:
       - "develop"
       - "feat/*"
+      - "master"
 chat:
   auto_reply: false
