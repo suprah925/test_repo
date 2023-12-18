@@ -25,6 +25,6 @@ reviews:
     base_branches:
       - "develop"
       - "feat/*"
-      - "master"
+      - "main"
 chat:
   auto_reply: false
