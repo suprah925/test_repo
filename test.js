@@ -6,4 +6,4 @@ let result = a + b;
 // Print for debugging
 console.log(result)
 
-print(result)
+print(result + c)
